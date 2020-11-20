@@ -1,0 +1,10 @@
+[[main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[main]]
+  name = "About me"
+  url = "/authors/michelleponti"
+  weight = 2
+
