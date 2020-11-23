@@ -7,7 +7,6 @@ avatar = "/images/Michelle.jpeg"
 
 [organization]
   name = "Heig-vd (CH)"
-  url = "www.heig-vd.ch"
 
 # Check the available icons on https://fontawesome.com/.
 # You can get similar results like this <i class="fab fa-github"></i> after searching.

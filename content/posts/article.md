@@ -3,21 +3,25 @@ title: "Ex. n°4 - Notre domaine"
 date: 2020-11-12T12:53:01+01:00
 description: "Article sur notre domaine"
 authors : [MichellePonti]
-tags : [LabVeilTec]
-
+tags : [UX/UI]
 featuredImage : "images/UX.png"
+toc: true
+ReadingTime: true
 draft : false
 ---
 
-Pour mon travail de bachelor, j'ai choisi de rechercher un stage dans le domaine de la conception UX / UI.
+Cette année, la dernière d'école, est consacrée a des choix qui vont nous suivre pour toute la vie. Pourquoi? Parce que il faut qu'on trouve ce qu'on veux devenire après la formations d' [Ingenierie des médias](https://im.heig-vd.ch). Cette formation permets plusieurs domaines de spécialisation:
+- Marketing & communication
+- Gestion de Projet
+- Informatique & interfaces
 
-J'étais fasciné par la combinaison de techniques que cela nécessite, c'est-à-dire combiner le marketing avec le design et rendre toute mon intuitive possible pour l'utilisateur. 
+Pour mon travail de bachelor, qui debutera en avril 2021, j'ai choisi de rechercher un stage dans le domaine de la conception UX / UI.
 
-J'aime le côté humain et de recherche que cela nécessite, il ne s'agit pas seulement de placer des éléments sur un site web, mais de créer la meilleure expérience utilisateur possible.
+J'étais fascinée par la combinaison de techniques que cela nécessite, c'est-à-dire combiner le marketing avec le design et l'informatique, et rendre toute le plus intuitive possible pour l'utilisateur. 
 
+J'aime le côté humain et de recherche que ce domaine nécessite, il ne s'agit pas seulement de placer des éléments sur un site web, mais de créer la meilleure expérience utilisateur possible.
 
-
-Les principales activités de l'ux sont:
+Les principales activités de l'UX et UI sont:
 - analyse des besoins clients
 
 - analyse de l'utilisateur final et de l'environnement d'utilisation
@@ -30,6 +34,7 @@ Les principales activités de l'ux sont:
 
 - analyse des plateformes existantes et étude d'amélioration des performances
 
+Dans le travail de mes rêves, j'aimerait trouver un moyen pour melanger mes interêts (technologie, mode, musique) avec mes skills professionnels.
   
 
 
