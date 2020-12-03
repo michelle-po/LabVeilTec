@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://michelle-po.github.io/LabVeilTec/"
 title = "Michelle Ponti Blog"
 
 theme = "eureka"
