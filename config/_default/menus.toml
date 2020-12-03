@@ -1,10 +1,10 @@
 [[main]]
-  name = "Articles"
+  name = "Posts"
   url = "/posts/"
   weight = 2
 
 [[main]]
-  name = "A propos"
+  name = "About me"
   url = "/authors/michelleponti"
   weight = 2
 
